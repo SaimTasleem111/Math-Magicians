@@ -1,0 +1,14 @@
+html,
+body {
+  min-height: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  font-family: Arial, Helvetica, sans-serif;
+  background: white;
+  flex-direction: column;
+  color: #800707;
+}
